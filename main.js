@@ -1,6 +1,8 @@
 Todos = new Mongo.Collection('todos');
 Lists = new Mongo.Collection('lists');
 
+//Sample change
+
 Router.configure({
   layoutTemplate: 'main',
   loadingTemplate:'loading'
