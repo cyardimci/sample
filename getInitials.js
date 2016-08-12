@@ -1,1 +1,1 @@
-function getInitials(){}
+function getInitials(){} //some comment
